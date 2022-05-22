@@ -3,12 +3,15 @@
   "version": "0.1.0",
   "description": "",
   "main": "gatsby-browser.js",
+  "author": "Simon Lagerlöf  <contact@smn.codes>",
+  "license": "BSD-3-Clause",
+  "peerDependencies": {
+    "gatsby": ">3.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://go.smn.codes/github/gatsby-plugin-cloudflare-web-analytics.git"
   },
-  "author": "Simon Lagerlöf  <contact@smn.codes>",
-  "license": "BSD-3-Clause",
   "bugs": {
     "url": "https://go.smn.codes/github/gatsby-plugin-cloudflare-web-analytics/issues"
   },
