@@ -1,0 +1,16 @@
+{
+  "name": "gatsby-plugin-cloudflare-web-analytics",
+  "version": "0.1.0",
+  "description": "",
+  "main": "gatsby-browser.js",
+  "repository": {
+    "type": "git",
+    "url": "https://go.smn.codes/github/gatsby-plugin-cloudflare-web-analytics.git"
+  },
+  "author": "Simon Lagerlöf  <contact@smn.codes>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://go.smn.codes/github/gatsby-plugin-cloudflare-web-analytics/issues"
+  },
+  "homepage": "https://go.smn.codes/github/gatsby-plugin-cloudflare-web-analytics#readme"
+}
