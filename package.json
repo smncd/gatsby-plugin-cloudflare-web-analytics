@@ -8,6 +8,10 @@
   "peerDependencies": {
     "gatsby": ">3.0.0"
   },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin"
+  ],
   "repository": {
     "type": "git",
     "url": "https://go.smn.codes/github/gatsby-plugin-cloudflare-web-analytics.git"
