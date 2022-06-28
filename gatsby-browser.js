@@ -1,3 +1,9 @@
+export const pluginOptionsSchema = ({ Joi }) => {
+  return Joi.object({
+    token: Joi.string().required(),
+  })
+}
+
 export const onRouteUpdate = (args, pluginOptions) => {
   const { token } = pluginOptions;
 
