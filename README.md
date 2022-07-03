@@ -4,6 +4,10 @@ Add Cloudflare Web Analytics to your Gatsby site.
 
 *Not affiliated with or supported by Cloudflare.*
 
+## Install
+
+To install, run `npm i gatsby-plugin-cloudflare-web-analytics` in your project directory.
+
 ## Config
 ```javascript
 module.exports = {
