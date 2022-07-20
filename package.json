@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-cloudflare-web-analytics",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "",
   "main": "gatsby-browser.js",
   "author": "Simon Lagerlöf  <contact@smn.codes>",
