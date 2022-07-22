@@ -18,14 +18,14 @@ module.exports = {
       options: {
         // You need to provide your site token. You get this from the Cloudflare dashboard
         token: YOUR_CF_TOKEN,
+         // You can add or overwrite attributes of the analytics script tag (optional)
+        attributes: [
+          {
+            name: ATTRIBUTE_NAME,
+            value: ATTRIBUTE_VALUE,
+          }
+        ],
       },
-      // You can add or overwrite attributes of the analytics script tag (optional)
-      attributes: [
-        {
-          name: ATTRIBUTE_NAME,
-          value: ATTRIBUTE_VALUE,
-        }
-      ]
     },
   ],
 }
